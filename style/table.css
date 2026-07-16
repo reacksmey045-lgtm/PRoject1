@@ -1,0 +1,30 @@
+td{
+    color: rgb(42, 65, 165);
+    padding: 10px;
+}
+i{
+    color: rgb(255, 196, 0);
+}
+#underline{
+    border-bottom:2px solid rgb(255, 196, 0);
+    display:inline-block;
+    padding-bottom:5px;
+}
+.report span{
+    border:1px solid gold;
+    margin-right: 25px;
+    box-shadow: 2px 2px rgb(0, 0, 0);
+    padding: 20px;
+    margin-top: 20px;
+    display:inline-block;
+}
+.report span i{
+    padding-left:25px;
+}
+.report div{
+    font-family:"Georgia";
+    margin-top:25px;
+    font-size:18px;
+    font-weight:bold;
+
+}
