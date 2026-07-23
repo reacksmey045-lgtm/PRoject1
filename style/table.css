@@ -31,3 +31,32 @@ input:focus{
     background-color: brown;
     color:white;
 }
+thead{
+    background-color:black;
+    color:gold;
+}
+tbody{
+    background-color: white;
+}
+.table{
+    width: 100%;
+    box-shadow: 2px 2px gray;
+    border:2px solid gold;
+    border-collapse: collapse;
+}
+.table td{
+    padding:20px;
+}
+.table tr{
+    border-bottom: 2px solid gold;
+}
+.checkin{
+    font-sine:11px;
+    padding-right:10px;
+    color:green;
+}
+.pending{
+    font-sine:11px;
+    padding-right:10px;
+    color: orange;
+}
